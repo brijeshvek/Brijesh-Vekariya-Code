@@ -86,7 +86,7 @@ export default function Footer() {
             cursor: "pointer",
           }}
         >
-          <img src="" alt="" />
+       <img src="https://img.icons8.com/?size=50&id=TCnKnYZFoOzM&format=png&color=FFFFFF" alt="" />
         </button>
           </div>
         </div>
